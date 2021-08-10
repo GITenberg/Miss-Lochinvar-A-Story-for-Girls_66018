@@ -1,0 +1,31 @@
+_repo: Miss-Lochinvar-A-Story-for-Girls_66018
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: 'Jacobs, Illustrators: W. L.'
+    gutenberg_agent_id: '53597'
+    url: http://www.gutenberg.org/2009/agents/53597
+  - agent_name: Jones, Bayard F.
+    gutenberg_agent_id: '53598'
+    url: http://www.gutenberg.org/2009/agents/53598
+  - agent_name: Taggart, Marion Ames
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '39964'
+    url: http://www.gutenberg.org/2009/agents/39964
+    wikipedia: https://en.wikipedia.org/wiki/Marion_Ames_Taggart
+description: ''
+gutenberg_issued: '2021-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Miss Lochinvar
+
+  A Story for Girls'
+url: http://www.gutenberg.org/ebooks/66018
